@@ -13,6 +13,7 @@
 		C26027C229E849FA00DA0B12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C26027C029E849FA00DA0B12 /* Main.storyboard */; };
 		C26027C429E849FC00DA0B12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C26027C329E849FC00DA0B12 /* Assets.xcassets */; };
 		C26027C729E849FC00DA0B12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C26027C529E849FC00DA0B12 /* LaunchScreen.storyboard */; };
+		C2A4D7EA29E8587F00F1DC73 /* stevie.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A4D7E929E8587F00F1DC73 /* stevie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C26027C329E849FC00DA0B12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C26027C629E849FC00DA0B12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C26027C829E849FC00DA0B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2A4D7E929E8587F00F1DC73 /* stevie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stevie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C26027BA29E849FA00DA0B12 /* AppDelegate.swift */,
 				C26027BC29E849FA00DA0B12 /* SceneDelegate.swift */,
 				C26027BE29E849FA00DA0B12 /* ViewController.swift */,
+				C2A4D7E929E8587F00F1DC73 /* stevie.swift */,
 				C26027C029E849FA00DA0B12 /* Main.storyboard */,
 				C26027C329E849FC00DA0B12 /* Assets.xcassets */,
 				C26027C529E849FC00DA0B12 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C26027BF29E849FA00DA0B12 /* ViewController.swift in Sources */,
 				C26027BB29E849FA00DA0B12 /* AppDelegate.swift in Sources */,
 				C26027BD29E849FA00DA0B12 /* SceneDelegate.swift in Sources */,
+				C2A4D7EA29E8587F00F1DC73 /* stevie.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

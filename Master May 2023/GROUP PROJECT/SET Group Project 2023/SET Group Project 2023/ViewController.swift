@@ -14,6 +14,52 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+
 // Easton was here
+
+    // Stevie
+    
+    
+    
+    
+    
+// Tyler
+    
+    
+
+    
+    
+    
+//easton
+    
+    
+    
+    
+    
+    
+//Stevie second
+    
+    
+    
+
+    
+    
+    
+
+//Tyler second
+    
+    
+    
+    
+    
+    
+    
+//Easton second
+    
+    
+    
+    
+    
+
 }
 
